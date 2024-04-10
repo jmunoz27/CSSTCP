@@ -24,7 +24,7 @@
 
 .nav-menu {
     background-color: var(--navBg);
-    width: 0;
+    width: 340px;
     height: 100vh;
     display: flex;
     justify-content: center;
